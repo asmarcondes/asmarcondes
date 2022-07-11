@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Colecionador de "Hello World" e aprendiz de qualquer coisa.<br>Já trabalhei com Java, ActionScript, C#, Python e JavaScript.<br><br>Meu GitHub está "vazio" pois a maioria dos projetos que eu tinha aqui<br>eram apenas réplicas de códigos estudados em cursos, desde que voltei<br>para a área na segunda metade de 2019. Em algum momento resolvi<br>fazer a limpa e deixar apenas projetos "originais". <br><br>🌱 Estudando Ruby no momento! ❤️<br><br>⚡ Já fiz projetos com Arduino, vídeos DIY para o YouTube e no momento<br>trabalhando com marcenaria.<br><br>Desenvolvendo um interesse repentino por cães da raça Husky Siberiano. 👀😁
+🔭 Colecionador de "Hello World" e aprendiz de qualquer coisa.<br>Já trabalhei com Java, ActionScript, C#, Python e JavaScript.<br><br>Meu GitHub está "vazio" pois a maioria dos projetos que eu tinha aqui<br>eram apenas réplicas de códigos estudados em cursos, desde que voltei<br>para a área na segunda metade de 2019. Em algum momento resolvi<br>fazer a limpa e deixar apenas projetos "originais". <br><br>🌱 Estudando Ruby no momento! ❤️<br><br>⚡ Já fiz projetos com Arduino, vídeos DIY para o YouTube e atualmente<br>trabalhando com marcenaria.<br><br>Desenvolvendo um interesse repentino por cães da raça Husky Siberiano. 👀😁
 
 
 ## 🌐 Socials:
